@@ -1,0 +1,51 @@
+body{
+    background-image: url(fondo.jpg);
+    background-color: rgb(235, 235, 235);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#busqueda{
+    height: 50px;
+    width: 50px;
+    border-radius: 0px;
+    border:none;
+    background-color: transparent;
+    background-image: url(pokebola.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 100px;
+    
+
+}
+
+#fondo{
+    background-color: rgb(56, 8, 16);
+    border: 20px;
+    border-color: blanchedalmond;
+    background-image: url(imgen\ final.jpg);
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+    
+}
+
+.img{
+   padding-top: 115px;
+   width: 90%;
+}
+
+.card{
+    background-color: rgb(226, 21, 55);
+    
+}
+
+.card p{
+    margin-left: 10px;
+}
+
+
+a {
+ color: rgb(207, 140, 95);
+}
